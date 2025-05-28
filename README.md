@@ -13,7 +13,6 @@ This project focuses on analyzing and classifying airline passenger reviews usin
 * **Source**: Airline reviews from 2006 to 2019
 * **Features**: 17 columns including ratings, cabin class, traveler type, etc.
 * **Target Variable**: `recommended` (Yes/No)
-* 
 
 ## 🔍 Project Workflow
 
